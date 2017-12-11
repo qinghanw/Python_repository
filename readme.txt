@@ -16,7 +16,7 @@ git clone支持多种协议，除了HTTP(s)以外，还支持SSH、Git、本地�
 
 $ git clone http[s]://example.com/path/to/repo.git/
 $ git clone ssh://example.com/path/to/repo.git/
-$ git clone git://example.com/path/to/repo.git/
+$ git clone git://example.com:path/to/repo.git/
 $ git clone /opt/git/project.git 
 $ git clone file:///opt/git/project.git
 $ git clone ftp[s]://example.com/path/to/repo.git/
